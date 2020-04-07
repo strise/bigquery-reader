@@ -1,5 +1,5 @@
 secret
 .idea
-.venv
+.venv*
 *.iml
 *.swp
